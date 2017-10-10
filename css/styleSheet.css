@@ -124,8 +124,8 @@ h2{
 }
 
 .image{
-  width: 220px;
-  height: 175px;
+  max-width: 220px;
+  max-height: 175px;
 }
 
 .footer{
